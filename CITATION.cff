@@ -5,6 +5,6 @@ authors:
     given-names: Nathan
     orcid: https://orcid.org/1234-5678-9101-1121
 title: "My Research Project"
-version: 0.0.1
-doi: 12.34566/zenodo.1234
+version: v0.0.1
+doi: 12.3456/zenodo.123456
 date-released: YYYY-MM-DD
