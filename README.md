@@ -14,7 +14,7 @@ Please cite the associated manuscript as follows:
 }
 ~~~
 
-The logo for this repository (logo.png) was generated using Google Gemini on Nov. 28, 2024 with the prompt "Create a logo that is an open window with code flowing out."
+The logo for this repository (logo.png) was generated using Google Gemini (Imagen 3) on Nov. 28, 2024 with the prompt "Create a logo that is an open window with code flowing out."
 
 [CREATE ZENODO DOI](https://zenodo.org/account/settings/github/). See the CITATION.cff file for how to cite this repository.
 
