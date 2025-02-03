@@ -1,12 +1,12 @@
 Project Name
 ---
-This repository accompanies the manuscript: [My Manuscript Title]().
+This repository accompanies the report: [My Report Title]().
 
 ABSTRACT
 
 Citation
 ---
-Please cite the associated manuscript as follows:
+Please cite the associated report as follows:
 
 ~~~code
 @article{
