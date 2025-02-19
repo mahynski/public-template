@@ -1,5 +1,8 @@
 Project Name
 ---
+
+<img src="logo.png" align="right" width=200 />
+
 This repository accompanies the report: [My Report Title]().
 
 ABSTRACT
