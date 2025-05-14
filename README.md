@@ -17,7 +17,7 @@ Please cite the associated report as follows:
 
 ~~~code
 @article{
-    INSERT FORMATTED BITEX
+    INSERT FORMATTED BIBTEX
 }
 ~~~
 
