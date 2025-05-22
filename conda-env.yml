@@ -2,17 +2,17 @@ name: project-name
 channels:
   - conda-forge
 dependencies:
-  - ipykernel
-  - ipywidgets
-  - matplotlib
-  - numpy
-  - pandas
-  - pre-commit
-  - scipy
-  - seaborn
-  - scikit-learn
-  - tqdm
-  - watermark
+  - python=3.12
   - pip
   - pip:
-    - pacmap
+    - ipykernel
+    - ipywidgets
+    - matplotlib
+    - numpy
+    - pandas
+    - pre-commit
+    - scipy
+    - seaborn
+    - scikit-learn
+    - tqdm
+    - watermark
